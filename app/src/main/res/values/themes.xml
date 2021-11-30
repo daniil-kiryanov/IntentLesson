@@ -19,6 +19,7 @@
     <style name="Theme.IntentLesson.TextView" parent="Widget.MaterialComponents.TextView">
         <item name="android:textSize">40sp</item>
         <item name="android:textColor">@color/green</item>
+        <item name="fontFamily">casual</item>
 
     </style>
 
